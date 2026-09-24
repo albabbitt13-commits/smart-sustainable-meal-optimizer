@@ -1,0 +1,172 @@
+FOOD TYPE,SUB TYPE,"Average of GHGE, TOTAL LC (kg CO2e/kg)"
+Beverages,Beer,0.6919477212499837
+Beverages,Carbonated Drinks,0.47525326654828737
+Beverages,"Coffee, brewed",0.804688192131469
+Beverages,"Coffee, Instant",37.225
+Beverages,"Coffee, roasted bean",12.608021978021975
+Beverages,"Grape, wine and sherry",1.8211145823129251
+Beverages,"Lemon, juice",0.6215999999999999
+Beverages,"Lemon, Juice, concentrate",4.0
+Beverages,liquor,3.189352836879433
+Beverages,"Orange, Juice",0.7502556153446002
+Beverages,"Orange, Juice,  concentrate",5.7
+Beverages,"Soybean, soy milk",0.5640433333333333
+Beverages,Tea,0.19126337645743494
+Beverages,"Tea, dried",12.181428571428572
+Beverages,"Water, direct, bottled",0.2904480262579785
+Beverages,"Water, direct, tap",0.03195536463201285
+Cereals and Grains,Bread,0.81933125
+Cereals and Grains,Cereal,5.74
+Cereals and Grains,"Corn, field, flour",0.55
+Cereals and Grains,"corn, field, starch",0.76
+Cereals and Grains,"Oat, flour",0.49838499999999997
+Cereals and Grains,"Oat, groats/rolled oats",0.834
+Cereals and Grains,quinoa,1.2776368249365713
+Cereals and Grains,"Rice, bran",1.3567
+Cereals and Grains,"Rice, brown",0.7471165020927303
+Cereals and Grains,"Rice, white",1.8724718549087276
+Cereals and Grains,"Rye, flour",0.41778048333333334
+Cereals and Grains,"Wheat, flour",0.40279936949253725
+Cereals and Grains,"Wheat, grain",1.0610000000000002
+Dairy,Butter,9.5775
+Dairy,"Cheese, Buffalo",9.99
+Dairy,"Cheese, Cow",8.892217391304348
+Dairy,"Cheese, Goat",8.611666666666666
+Dairy,Cottage Cheese,1.8
+Dairy,Dairy Powders,10.1
+Dairy,"Dairy Products, Fozen",2.1
+Dairy,"Fluid Milk, Buffalo",3.38
+Dairy,"Fluid Milk, Buttermilk",1.1
+Dairy,"Fluid Milk, Concentrate",3.1
+Dairy,"Fluid Milk, Cow",1.4356026390230814
+Dairy,"Fluid Milk, Cream",3.0625
+Dairy,"Fluid Milk, Goat",2.67
+Dairy,"Fluid Milk, Sheep",8.4
+Dairy,Margarine,1.36
+Dairy,Sour Cream,2.5
+Dairy,"Yogurt, Cow",1.7261427857142857
+Eggs,"Eggs, Chicken",4.214125
+Fish and Seafood,fish sticks,2.2111562499999997
+Fish and Seafood,Fish-Freshwater Finfish,2.255
+Fish and Seafood,"Fish-Freshwater Finfish, Farm Raised",4.8556605
+Fish and Seafood,"Fish-Saltwater Finfish, Other",3.013133200407656
+Fish and Seafood,"Fish-Saltwater Finfish, Tuna",3.1034482758620694
+Fish and Seafood,"Fish-Shellfish, Crustacean",37.282203152937
+Fish and Seafood,"Fish-Shellfish, Mollusc",7.169302598404272
+Fruit,"Apple, fruit with peel",1.3536268999999999
+Fruit,Avocado,1.27
+Fruit,Banana,0.8682648675210315
+Fruit,Blueberry,0.462105263157895
+Fruit,Cherry,4.417
+Fruit,"Fruits, Citrus",0.41000000000000003
+Fruit,Grape,0.29
+Fruit,"Grapes, Wine",0.2283390909090909
+Fruit,Honeydew melon,0.27
+Fruit,"Kiwifruit, fuzzy",0.6
+Fruit,Melon,0.7100000000000001
+Fruit,"Melon, greenhouse",1.4275
+Fruit,Olive,8.7575
+Fruit,orange,0.257
+Fruit,Peach,0.2342857142857143
+Fruit,Pear,0.28755753999999994
+Fruit,Pineapple,0.44272727272727275
+Fruit,Raspberry,4.65335652173913
+Fruit,Strawberry,1.6042500000000002
+Fruit,"Strawberry, greenhouse",0.695
+Fruit,x_Strawberries,3.297587131367292
+Legumes and Nuts,Almond,2.8560000000000003
+Legumes and Nuts,Cashew,2.582851794871795
+Legumes and Nuts,Chestnut,1.46
+Legumes and Nuts,Hazelnut,0.8479199999999999
+Legumes and Nuts,"Hazelnut, Chocolate covered",3.43
+Legumes and Nuts,"Hazelnut, Spread",2.71
+Legumes and Nuts,"Hazelnuts, paste",1.685
+Legumes and Nuts,Peanut,1.36
+Legumes and Nuts,"Peanut, butter",2.106666666666667
+Legumes and Nuts,Pistachio,2.33
+Legumes and Nuts,"soybean, meal",0.40566
+Legumes and Nuts,Walnut,2.129
+Meat,Beef,33.118322819431754
+Meat,Beef from dairy,8.905999999999999
+Meat,Chicken,4.253403303713831
+Meat,Goat,35.714285714285715
+Meat,Pork,6.096008725942574
+Meat,"Poultry, other",4.194307692307692
+Meat,"Rabbit, meat",10.431100628930817
+Meat,Sheep,19.768307328605196
+Meat,Turkey,9.094999999999999
+Meat,Veal,18.93775
+Meat Substitutes,"Falafel, Tivall",2.51
+Meat Substitutes,Meatless,2.29
+Meat Substitutes,Quorn,2.4
+Meat Substitutes,Tempeh,1.093
+Meat Substitutes,Tofu,2.697253333333333
+Meat Substitutes,Valess,5.008166666666666
+Meat Substitutes,Vegetable Patty,2.95
+Oils and Fats,"Coconut, oil",2.7294392999999997
+Oils and Fats,"Corn, field, oil",1.1993259
+Oils and Fats,"Cottonseed, oil",2.14
+Oils and Fats,"Olive, oil",0.7018649885583522
+Oils and Fats,"Palm, oil",6.11647254
+Oils and Fats,"Peanut, Oil",3.6372687999999997
+Oils and Fats,"Rapeseed, oil",2.324
+Oils and Fats,"soybean, oil",1.3656466666666667
+Oils and Fats,"Sunflower, oil",3.268
+Other,Cacao,2.6550000000000002
+Other,Candy,3.12
+Other,Cassava Starch,0.594
+Other,"Cocoa Bean, Chocolate",3.075
+Other,"Cocoa bean, Powder",26.311518250000002
+Other,Cocoa Butter,1.3961513513513513
+Other,Cocoa Cake,1.2013395348837208
+Other,Cocoa Liquor,1.0105796919994992
+Other,"Corn, Chips",1.325
+Other,"Essential Oil, Lemon",43.0
+Other,"Essential Oil, orange",72.5
+Other,Herbs and Spices,0.665
+Other,"Potato, chips",2.1619999999999995
+Sweeteners,"beet, sugar",0.39078305999999996
+Sweeteners,"beet, sugar, molasses",0.2875925
+Sweeteners,Honey,1.655
+Sweeteners,"Sugarcane, molasses",0.4876
+Sweeteners,"Sugarcane, sugar",0.708928685
+Vegetables,Asparagus,0.8009999999999999
+Vegetables,"Asparagus, air freight",8.87
+Vegetables,"Bean, snap, succulent",1.7349999999999999
+Vegetables,"Bean, snap, succulent, air freight",10.814999999999998
+Vegetables,Broccoli,1.2440924242424243
+Vegetables,Carrot,0.18000000000000002
+Vegetables,"carrot, frozen",0.267
+Vegetables,Cauliflower,0.39
+Vegetables,"Cucumber, greenhouse",3.98
+Vegetables,Eggplant,1.3
+Vegetables,"Fennel, Cauliflower, Broccoli",0.48
+Vegetables,"Fennel, Florence",0.43
+Vegetables,"Garlic, bulb",4.321
+Vegetables,Leek,0.43
+Vegetables,"Lettuce, greenhouse",3.04075
+Vegetables,"Lettuce, leaf",0.8561500000000001
+Vegetables,"Lettuce, leaf, air freight",10.109000000000002
+Vegetables,Mushroom,2.7614678899082565
+Vegetables,onion,0.107
+Vegetables,"onion, bulb",0.43
+Vegetables,"Pea, succulent",3.873333333333333
+Vegetables,"Pepper, bell",0.88
+Vegetables,"Pepper, greenhouse",0.9155
+Vegetables,"Potato, Flour",0.8550097633333333
+Vegetables,"Potato, tuber, w/o peel",0.2545
+Vegetables,"Potato, tuber, w/peel",0.4947777777777778
+Vegetables,"Potatoes, mashed",3.1965000000000003
+Vegetables,pumpkin,0.41900000000000004
+Vegetables,Spinach,0.13
+Vegetables,"Squash, Summer",0.3
+Vegetables,"squash, winter",0.4518890750000001
+Vegetables,Tomato,0.879186057142857
+Vegetables,"Tomato, chopped",1.0832333333333335
+Vegetables,"Tomato, greenhouse",2.0510069866666663
+Vegetables,"Tomato, juice",0.5727
+Vegetables,"Tomato, paste",1.0375333333333332
+Vegetables,"Tomato, peeled",1.03492
+Vegetables,"Tomato, puree",1.518595714285714
+Vegetables,x_Lettuce,3.760869565217392
+Vegetables,"Zucchini, greenhouse",1.571

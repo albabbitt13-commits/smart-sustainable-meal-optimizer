@@ -1,0 +1,53 @@
+FCID_Code,FCID_Desc,CO2 eq / kg,food_name,fdc_id,protein_g,fat_g,carbs_g,calories,description,price_per_100g
+101078000,Carrot,0.091616,Carrot,170393,0.93,0.24,9.58,41.0,"Carrots, raw",0.221684
+103299000,"Potato, tuber, w/peel",0.2174117647058824,"Potato, tuber, w/peel",170032,2.57,0.1,12.44,58.0,"Potatoes, raw, skin",0.203166
+103366000,Sweet potato,0.3022023529411765,Sweet potato,168482,1.57,0.05,20.12,86.0,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",0.256756
+301165000,"Garlic, bulb",0.7425166666666667,"Garlic, bulb",169230,6.36,0.5,33.06,149.0,"Garlic, raw",0.967773
+301237000,"Onion, bulb",0.26854994631428575,"Onion, bulb",170000,1.1,0.1,9.34,40.0,"Onions, raw",0.234176
+401204000,"Lettuce, head",0.1582875,"Lettuce, head",169248,0.9,0.14,2.97,14.0,"Lettuce, iceberg (includes crisphead types), raw",0.325928
+401355000,Spinach,0.30709469696666664,Spinach,168462,2.86,0.39,3.63,23.0,"Spinach, raw",0.992173
+500061000,Broccoli,0.7972570734695187,Broccoli,170379,2.82,0.37,6.64,34.0,"Broccoli, raw",0.66658
+500069000,Cabbage,0.21875,Cabbage,169975,1.28,0.1,5.8,25.0,"Cabbage, raw",0.18224
+500083000,Cauliflower,0.9339695615999999,Cauliflower,169986,1.92,0.28,4.97,25.0,"Cauliflower, raw",0.468358
+600347000,"Soybean, seed",1.15428,"Soybean, seed",174270,36.49,19.94,30.16,446.0,"Soybeans, mature seeds, raw",
+603030000,"Bean, black, seed",0.30778666666666665,"Bean, black, seed",173734,21.6,1.42,62.36,341.0,"Beans, black, mature seeds, raw",0.365777
+603036000,"Bean, kidney, seed",0.30778666666666665,"Bean, kidney, seed",173744,22.53,1.06,61.29,337.0,"Beans, kidney, red, mature seeds, raw",0.441042
+603098000,"Chickpea, seed",0.4914,"Chickpea, seed",173756,20.47,6.04,62.95,378.0,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",0.32108
+603203000,"Lentil, seed",1.88035,"Lentil, seed",172420,24.63,1.06,63.35,352.0,"Lentils, raw",0.431389
+801375000,Tomato,0.47037382857142856,Tomato,170457,0.88,0.2,3.89,18.0,"Tomatoes, red, ripe, raw, year round average",0.472321
+802148000,Eggplant,0.5259634628571428,Eggplant,169228,0.98,0.18,5.88,25.0,"Eggplant, raw",0.486766
+802270000,"Pepper, bell",0.5246,"Pepper, bell",170108,0.99,0.3,6.03,26.0,"Peppers, sweet, red, raw",0.331429
+901399000,Watermelon,1.9456,Watermelon,167765,0.61,0.15,7.55,30.0,"Watermelon, raw",0.089469
+902135000,Cucumber,0.409267925,Cucumber,168409,0.65,0.11,3.63,15.0,"Cucumber, with peel, raw",0.240932
+1001240000,Orange,0.2936715225601273,Orange,169097,0.94,0.12,11.75,47.0,"Oranges, raw, all commercial varieties",0.3174
+1100007000,"Apple, fruit with peel",0.2283983960562633,"Apple, fruit with peel",171688,0.26,0.17,13.81,52.0,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",0.410265
+1100266000,Pear,0.24879781662857142,Pear,169118,0.36,0.14,15.23,57.0,"Pears, raw",0.422569
+1202012000,Apricot,0.46440000000000003,Apricot,171697,1.4,0.39,11.12,48.0,"Apricots, raw",0.838579
+1202260000,Peach,0.27352,Peach,169928,0.91,0.25,9.54,39.0,"Peaches, yellow, raw",0.541698
+1301055000,Blackberry,0.599008811273034,Blackberry,173946,1.39,0.49,9.61,43.0,"Blackberries, raw",1.506742
+1301320000,Raspberry,0.23657739130434774,Raspberry,167755,1.2,0.65,11.94,52.0,"Raspberries, raw",1.756369
+1302057000,Blueberry,0.4959868421052632,Blueberry,171711,0.74,0.33,14.49,57.0,"Blueberries, raw",1.131517
+1304175000,Grape,0.4778176,Grape,174683,0.72,0.16,18.1,69.0,"Grapes, red or green (European type, such as Thompson seedless), raw",0.495695
+1307359000,Strawberry,0.61374,Strawberry,167762,0.67,0.3,7.68,32.0,"Strawberries, raw",0.678745
+1400003000,Almond,2.27203125,Almond,170567,21.15,49.93,21.55,579.0,"Nuts, almonds",1.92994
+1400081000,Cashew,4.999,Cashew,170162,18.22,43.85,30.19,553.0,"Nuts, cashew nuts, raw",2.508193
+1400269000,Pecan,2.0569628623188403,Pecan,170182,9.17,71.97,13.86,691.0,"Nuts, pecans",2.465712
+1400391000,Walnut,1.657,Walnut,170187,15.23,65.21,13.71,654.0,"Nuts, walnuts, english",1.741183
+1500025000,"Barley, pearled barley",0.39349345733333324,"Barley, pearled barley",170284,9.91,1.16,77.72,352.0,"Barley, pearled, raw",0.108533
+1500127000,"Corn, sweet",0.7570826125,"Corn, sweet",169998,3.27,1.35,18.7,86.0,"Corn, sweet, yellow, raw",0.46358
+1500233000,"Oat, groats/rolled oats",0.4738225,"Oat, groats/rolled oats",169705,16.89,6.9,66.27,389.0,Oats (Includes foods for USDA's Food Distribution Program),0.433131
+1500323000,"Rice, white",1.540643545130288,"Rice, white",168877,7.13,0.66,79.95,365.0,"Rice, white, long-grain, regular, raw, enriched",
+1500324000,"Rice, brown",2.0609339082246336,"Rice, brown",169706,7.5,2.68,76.17,362.0,"Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution Program)",
+2100228000,Mushroom,3.09263302175841,Mushroom,169251,3.09,0.34,3.26,22.0,"Mushrooms, white, raw",0.915915
+2201019000,Asparagus,2.1714399000000006,Asparagus,168389,2.2,0.12,3.88,20.0,"Asparagus, raw",0.708225
+2202085000,Celery,0.33104400000000006,Celery,169988,0.69,0.17,2.97,14.0,"Celery, raw",0.29274
+2402020000,Avocado,0.54675,Avocado,171705,2.0,14.66,8.53,160.0,"Avocados, raw, all commercial varieties",0.498774
+2402023000,Banana,0.37410691261867585,Banana,173944,1.09,0.33,22.84,89.0,"Bananas, raw",0.134393
+2402215000,Mango,0.63945,Mango,169910,0.82,0.38,14.98,60.0,"Mangos, raw",0.321583
+2402245000,Papaya,0.2160202,Papaya,169926,0.47,0.26,10.82,43.0,"Papayas, raw",0.287816
+2403279000,Pineapple,0.9136272727272726,Pineapple,169124,0.54,0.12,13.12,50.0,"Pineapple, raw, all varieties",0.147363
+3100044000,"Beef, meat",33.105179355719855,"Beef, meat",174036,17.17,20.0,0.0,254.0,"Beef, ground, 80% lean meat / 20% fat, raw",1.670971670004061
+3400290000,"Pork, meat",5.560043945413269,"Pork, meat",167810,18.22,14.79,0.0,211.0,"Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw",0.9586581008847216
+4000093000,"Chicken, meat",4.18784838873177,"Chicken, meat",171447,18.6,15.06,0.0,215.0,"Chicken, broilers or fryers, meat and skin, raw",0.44493693754152
+5000382000,"Turkey, meat",2.571428571428571,"Turkey, meat",171081,21.64,5.64,0.14,144.0,"Turkey, whole, meat and skin, raw",0.844469
+7000145000,"Egg, whole",3.7540655999999992,"Egg, whole",171287,12.56,9.51,0.72,143.0,"Egg, whole, raw, fresh",
